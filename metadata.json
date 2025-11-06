@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Mind Map",
+  "description": "An interactive mind map application to visualize hierarchical data. Users can expand/collapse nodes, pan, and zoom for better exploration of complex information structures.",
+  "requestFramePermissions": []
+}
